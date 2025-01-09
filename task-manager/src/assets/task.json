@@ -68,5 +68,285 @@
     "description": "Write automation scripts for end-to-end testing.",
     "status": "pending",
     "dueDate": "2025-01-13"
+  },
+  {
+    "id": 11,
+    "title": "Update User Profiles",
+    "description": "Ensure all user profiles are up-to-date with the latest information.",
+    "status": "in-progress",
+    "dueDate": "2025-01-16"
+  },
+  {
+    "id": 12,
+    "title": "Marketing Campaign",
+    "description": "Launch a new marketing campaign for the upcoming product release.",
+    "status": "pending",
+    "dueDate": "2025-01-20"
+  },
+  {
+    "id": 13,
+    "title": "Data Migration",
+    "description": "Migrate user data to the new database schema.",
+    "status": "completed",
+    "dueDate": "2025-01-04"
+  },
+  {
+    "id": 14,
+    "title": "Optimize Performance",
+    "description": "Optimize the performance of the search feature.",
+    "status": "in-progress",
+    "dueDate": "2025-01-19"
+  },
+  {
+    "id": 15,
+    "title": "Create API Endpoints",
+    "description": "Develop new API endpoints for the latest feature.",
+    "status": "pending",
+    "dueDate": "2025-01-18"
+  },
+  {
+    "id": 16,
+    "title": "Review Deployment Logs",
+    "description": "Verify deployment logs for the latest release.",
+    "status": "completed",
+    "dueDate": "2025-01-06"
+  },
+  {
+    "id": 17,
+    "title": "Conduct UX Testing",
+    "description": "Test user experience for new features.",
+    "status": "in-progress",
+    "dueDate": "2025-01-17"
+  },
+  {
+    "id": 18,
+    "title": "Analyze Performance Metrics",
+    "description": "Analyze performance metrics for feature X.",
+    "status": "pending",
+    "dueDate": "2025-01-21"
+  },
+  {
+    "id": 19,
+    "title": "Prepare Weekly Report",
+    "description": "Generate and share the weekly project report.",
+    "status": "in-progress",
+    "dueDate": "2025-01-19"
+  },
+  {
+    "id": 20,
+    "title": "Setup CI/CD Pipeline",
+    "description": "Implement continuous integration and deployment pipeline.",
+    "status": "completed",
+    "dueDate": "2025-01-03"
+  },
+  {
+    "id": 21,
+    "title": "Review Security Protocols",
+    "description": "Review and update security protocols for the application.",
+    "status": "pending",
+    "dueDate": "2025-01-22"
+  },
+  {
+    "id": 22,
+    "title": "Upgrade Database Schema",
+    "description": "Upgrade database schema to optimize performance.",
+    "status": "in-progress",
+    "dueDate": "2025-01-18"
+  },
+  {
+    "id": 23,
+    "title": "Manage Cloud Infrastructure",
+    "description": "Oversee cloud infrastructure setup and management.",
+    "status": "completed",
+    "dueDate": "2025-01-01"
+  },
+  {
+    "id": 24,
+    "title": "Create User Onboarding Flow",
+    "description": "Design a flow for new user onboarding.",
+    "status": "pending",
+    "dueDate": "2025-01-25"
+  },
+  {
+    "id": 25,
+    "title": "Review API Documentation",
+    "description": "Verify accuracy and completeness of API documentation.",
+    "status": "in-progress",
+    "dueDate": "2025-01-20"
+  },
+  {
+    "id": 26,
+    "title": "Improve Search Functionality",
+    "description": "Enhance the search feature for better user experience.",
+    "status": "pending",
+    "dueDate": "2025-01-23"
+  },
+  {
+    "id": 27,
+    "title": "Prepare Project Presentation",
+    "description": "Prepare and deliver a presentation for stakeholders.",
+    "status": "in-progress",
+    "dueDate": "2025-01-26"
+  },
+  {
+    "id": 28,
+    "title": "Update Billing System",
+    "description": "Integrate the new billing system with existing application.",
+    "status": "completed",
+    "dueDate": "2024-12-31"
+  },
+  {
+    "id": 29,
+    "title": "Monitor Server Health",
+    "description": "Regular monitoring and maintenance of server health.",
+    "status": "in-progress",
+    "dueDate": "2025-01-29"
+  },
+  {
+    "id": 30,
+    "title": "Implement User Feedback",
+    "description": "Incorporate user feedback into the next release.",
+    "status": "pending",
+    "dueDate": "2025-01-30"
+  },
+  {
+    "id": 31,
+    "title": "Fix Localization Issues",
+    "description": "Resolve localization issues across different regions.",
+    "status": "in-progress",
+    "dueDate": "2025-01-27"
+  },
+  {
+    "id": 32,
+    "title": "Evaluate New Tools",
+    "description": "Evaluate new tools for project management.",
+    "status": "completed",
+    "dueDate": "2024-12-29"
+  },
+  {
+    "id": 33,
+    "title": "Manage API Gateway",
+    "description": "Setup and manage API gateway for microservices.",
+    "status": "pending",
+    "dueDate": "2025-01-31"
+  },
+  {
+    "id": 34,
+    "title": "Enhance Dashboard Reporting",
+    "description": "Improve reporting capabilities on project dashboard.",
+    "status": "in-progress",
+    "dueDate": "2025-02-02"
+  },
+  {
+    "id": 35,
+    "title": "Validate Data Migration",
+    "description": "Validate the success of data migration.",
+    "status": "completed",
+    "dueDate": "2024-12-28"
+  },
+  {
+    "id": 36,
+    "title": "Conduct Performance Testing",
+    "description": "Conduct performance testing under various load conditions.",
+    "status": "pending",
+    "dueDate": "2025-02-04"
+  },
+  {
+    "id": 37,
+    "title": "Optimize Codebase",
+    "description": "Refactor and optimize the codebase for maintainability.",
+    "status": "in-progress",
+    "dueDate": "2025-02-03"
+  },
+  {
+    "id": 38,
+    "title": "Create Training Materials",
+    "description": "Prepare training materials for new features.",
+    "status": "pending",
+    "dueDate": "2025-02-06"
+  },
+  {
+    "id": 39,
+    "title": "Review Test Cases",
+    "description": "Review and update test cases for regression testing.",
+    "status": "in-progress",
+    "dueDate": "2025-02-05"
+  },
+  {
+    "id": 40,
+    "title": "Manage Security Patching",
+    "description": "Oversee the security patching process for the application.",
+    "status": "completed",
+    "dueDate": "2024-12-27"
+  },
+  {
+    "id": 41,
+    "title": "Assess Disaster Recovery",
+    "description": "Assess and improve disaster recovery procedures.",
+    "status": "pending",
+    "dueDate": "2025-02-07"
+  },
+  {
+    "id": 42,
+    "title": "Improve API Performance",
+    "description": "Enhance the performance of API endpoints.",
+    "status": "in-progress",
+    "dueDate": "2025-02-08"
+  },
+  {
+    "id": 43,
+    "title": "Review Collaboration Tools",
+    "description": "Evaluate and select collaboration tools for team communication.",
+    "status": "completed",
+    "dueDate": "2024-12-26"
+  },
+  {
+    "id": 44,
+    "title": "Update Deployment Documentation",
+    "description": "Update and maintain deployment documentation.",
+    "status": "pending",
+    "dueDate": "2025-02-10"
+  },
+  {
+    "id": 45,
+    "title": "Improve User Engagement",
+    "description": "Develop strategies to increase user engagement.",
+    "status": "in-progress",
+    "dueDate": "2025-02-09"
+  },
+  {
+    "id": 46,
+    "title": "Manage Backup Processes",
+    "description": "Ensure proper backup and recovery processes are in place.",
+    "status": "completed",
+    "dueDate": "2024-12-25"
+  },
+  {
+    "id": 47,
+    "title": "Conduct Security Audits",
+    "description": "Perform security audits to assess vulnerabilities.",
+    "status": "pending",
+    "dueDate": "2025-02-11"
+  },
+  {
+    "id": 48,
+    "title": "Review Analytics Tools",
+    "description": "Evaluate and implement analytics tools for data analysis.",
+    "status": "in-progress",
+    "dueDate": "2025-02-12"
+  },
+  {
+    "id": 49,
+    "title": "Optimize UI Performance",
+    "description": "Optimize user interface for faster load times.",
+    "status": "pending",
+    "dueDate": "2025-02-13"
+  },
+  {
+    "id": 50,
+    "title": "Implement Continuous Improvement",
+    "description": "Establish continuous improvement processes for the project.",
+    "status": "in-progress",
+    "dueDate": "2025-02-14"
   }
 ]
